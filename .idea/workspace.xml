@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8397c624-2402-4933-8f87-15a6cf9a97b7" name="Changes" comment="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages.">
+    <list default="true" id="8397c624-2402-4933-8f87-15a6cf9a97b7" name="Changes" comment="Fix typo in Navbar component import path">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-site/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/movie-site/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-site/src/css/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/movie-site/src/css/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-site/src/css/MovieCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/movie-site/src/css/MovieCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-site/src/css/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/movie-site/src/css/Navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740423073220</updated>
       <workItem from="1740423074385" duration="13039000" />
-      <workItem from="1740451401504" duration="2913000" />
+      <workItem from="1740451401504" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages.">
       <option name="closed" value="true" />
@@ -89,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740453314460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix typo in Navbar component import path">
+      <option name="closed" value="true" />
+      <created>1740454376318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740454376318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages." />
+    <MESSAGE value="Fix typo in Navbar component import path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix typo in Navbar component import path" />
   </component>
 </project>
