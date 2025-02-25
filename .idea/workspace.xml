@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8397c624-2402-4933-8f87-15a6cf9a97b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/movie-site/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/components/MovieCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/components/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/contexts/MovieContext.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/Favorites.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/MovieCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/pages/Favourites.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/pages/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movie-site/vite.config.js" afterDir="false" />
+    <list default="true" id="8397c624-2402-4933-8f87-15a6cf9a97b7" name="Changes" comment="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-site/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/movie-site/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "brettpine"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/brettpine/Sineam-Filmz.git",
+    "accountId": "8afd1591-c81c-40f4-852c-c98c53f5117b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -87,11 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1740423073220</updated>
       <workItem from="1740423074385" duration="13039000" />
-      <workItem from="1740451401504" duration="1674000" />
+      <workItem from="1740451401504" duration="2913000" />
     </task>
+    <task id="LOCAL-00001" summary="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages.">
+      <option name="closed" value="true" />
+      <created>1740453314460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740453314460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="**Initial React + Vite project setup**&#10;&#10;Set up a React project with Vite, including core dependencies.&#10;Added styles, context management for favorites, and basic API utilities for fetching movie data. Initialized routing with Home and Favourites pages." />
   </component>
 </project>
